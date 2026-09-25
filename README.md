@@ -1,16 +1,13 @@
-## Hi there 👋
+# Marco Propaga
 
-<!--
-**MarcoPropaga/MarcoPropaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estratégia de comunicação orientada por dados, do marketing ao endomarketing, em canais online e offline.
 
-Here are some ideas to get you started:
+**Como trabalho**
+- Pesquisa regionalizada com agentes de IA: demografia, linguagem local, costumes e fatores de decisão do cliente
+- Planejamento de campanha: conceito validado por dados → mix de canais → tecnologia aplicada → indicadores
+- Endomarketing alinhado à cultura e ao perfil dos colaboradores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Neste perfil**
+Modelos e métodos que uso no dia a dia, abertos para consulta.
+
+*Entender profundamente para comunicar com precisão.*
